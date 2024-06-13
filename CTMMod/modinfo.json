@@ -1,0 +1,13 @@
+{
+    "type": "code",
+    "modid": "ctmmod",
+    "name": "CTMMod",
+    "authors": [
+        "sneeze"
+    ],
+    "description": "To be added",
+    "version": "1.0.0",
+    "dependencies": {
+        "game": ""
+    }
+}
